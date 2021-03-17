@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 147e879851fbc364cbbb187f289817ca
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: EvilDoll:Ankle_L
+    100002: EvilDoll:Ankle_R
+    100004: EvilDoll:Chest_M
+    100006: EvilDoll:Cup_L
+    100008: EvilDoll:Cup_R
+    100010: EvilDoll:DeformationSystem
+    100012: EvilDoll:Elbow_L
+    100014: EvilDoll:Elbow_R
+    100016: EvilDoll:ElbowPart1_L
+    100018: EvilDoll:ElbowPart1_R
+    100020: EvilDoll:Head_M
+    100022: EvilDoll:HeadEnd_M
+    100024: EvilDoll:Hip_L
+    100026: EvilDoll:Hip_R
+    100028: EvilDoll:IndexFinger1_L
+    100030: EvilDoll:IndexFinger1_R
+    100032: EvilDoll:IndexFinger2_L
+    100034: EvilDoll:IndexFinger2_R
+    100036: EvilDoll:IndexFinger3_L
+    100038: EvilDoll:IndexFinger3_R
+    100040: EvilDoll:IndexFinger4_L
+    100042: EvilDoll:IndexFinger4_R
+    100044: EvilDoll:Knee_L
+    100046: EvilDoll:Knee_R
+    100048: EvilDoll:Main
+    100050: EvilDoll:MiddleFinger1_L
+    100052: EvilDoll:MiddleFinger1_R
+    100054: EvilDoll:MiddleFinger2_L
+    100056: EvilDoll:MiddleFinger2_R
+    100058: EvilDoll:MiddleFinger3_L
+    100060: EvilDoll:MiddleFinger3_R
+    100062: EvilDoll:MiddleFinger4_L
+    100064: EvilDoll:MiddleFinger4_R
+    100066: EvilDoll:Neck_M
+    100068: EvilDoll:NeckPart1_M
+    100070: EvilDoll:PinkyFinger1_L
+    100072: EvilDoll:PinkyFinger1_R
+    100074: EvilDoll:PinkyFinger2_L
+    100076: EvilDoll:PinkyFinger2_R
+    100078: EvilDoll:PinkyFinger3_L
+    100080: EvilDoll:PinkyFinger3_R
+    100082: EvilDoll:PinkyFinger4_L
+    100084: EvilDoll:PinkyFinger4_R
+    100086: EvilDoll:RingFinger1_L
+    100088: EvilDoll:RingFinger1_R
+    100090: EvilDoll:RingFinger2_L
+    100092: EvilDoll:RingFinger2_R
+    100094: EvilDoll:RingFinger3_L
+    100096: EvilDoll:RingFinger3_R
+    100098: EvilDoll:RingFinger4_L
+    100100: EvilDoll:RingFinger4_R
+    100102: EvilDoll:Root_M
+    100104: EvilDoll:RootPart1_M
+    100106: EvilDoll:RootPart2_M
+    100108: EvilDoll:Scapula_L
+    100110: EvilDoll:Scapula_R
+    100112: EvilDoll:Shoulder_L
+    100114: EvilDoll:Shoulder_R
+    100116: EvilDoll:Spine1_M
+    100118: EvilDoll:Spine1Part1_M
+    100120: EvilDoll:Spine1Part2_M
+    100122: EvilDoll:ThumbFinger1_L
+    100124: EvilDoll:ThumbFinger1_R
+    100126: EvilDoll:ThumbFinger2_L
+    100128: EvilDoll:ThumbFinger2_R
+    100130: EvilDoll:ThumbFinger3_L
+    100132: EvilDoll:ThumbFinger3_R
+    100134: EvilDoll:ThumbFinger4_L
+    100136: EvilDoll:ThumbFinger4_R
+    100138: EvilDoll:Toes_L
+    100140: EvilDoll:Toes_R
+    100142: EvilDoll:ToesEnd_L
+    100144: EvilDoll:ToesEnd_R
+    100146: EvilDoll:Wrist_L
+    100148: EvilDoll:Wrist_R
+    100150: //RootNode
+    100152: EvilDoll:body
+    100154: EvilDoll:body 1
+    100156: EvilDoll:body 2
+    100158: EvilDoll:Geometry
+    100160: EvilDoll:head
+    100162: EvilDoll:head 1
+    100164: EvilDoll:head 2
+    100166: EvilDoll:Jacket
+    100168: EvilDoll:Jacket 1
+    100170: EvilDoll:Jacket 2
+    100172: EvilDoll:L_shoe
+    100174: EvilDoll:L_shoe 1
+    100176: EvilDoll:L_shoe 2
+    100178: EvilDoll:LOD_00
+    100180: EvilDoll:LOD_01
+    100182: EvilDoll:LOD_02
+    100184: EvilDoll:Necktie
+    100186: EvilDoll:Necktie 1
+    100188: EvilDoll:Necktie 2
+    100190: EvilDoll:Pants
+    100192: EvilDoll:Pants 1
+    100194: EvilDoll:Pants 2
+    100196: EvilDoll:R_shoe
+    100198: EvilDoll:R_shoe 1
+    100200: EvilDoll:R_shoe 2
+    100202: EvilDoll:Shirt
+    100204: EvilDoll:Shirt 1
+    100206: EvilDoll:Shirt 2
+    100208: EvilDoll:Suit
+    100210: EvilDoll:Suit 1
+    100212: EvilDoll:Suit 2
+    400000: EvilDoll:Ankle_L
+    400002: EvilDoll:Ankle_R
+    400004: EvilDoll:Chest_M
+    400006: EvilDoll:Cup_L
+    400008: EvilDoll:Cup_R
+    400010: EvilDoll:DeformationSystem
+    400012: EvilDoll:Elbow_L
+    400014: EvilDoll:Elbow_R
+    400016: EvilDoll:ElbowPart1_L
+    400018: EvilDoll:ElbowPart1_R
+    400020: EvilDoll:Head_M
+    400022: EvilDoll:HeadEnd_M
+    400024: EvilDoll:Hip_L
+    400026: EvilDoll:Hip_R
+    400028: EvilDoll:IndexFinger1_L
+    400030: EvilDoll:IndexFinger1_R
+    400032: EvilDoll:IndexFinger2_L
+    400034: EvilDoll:IndexFinger2_R
+    400036: EvilDoll:IndexFinger3_L
+    400038: EvilDoll:IndexFinger3_R
+    400040: EvilDoll:IndexFinger4_L
+    400042: EvilDoll:IndexFinger4_R
+    400044: EvilDoll:Knee_L
+    400046: EvilDoll:Knee_R
+    400048: EvilDoll:Main
+    400050: EvilDoll:MiddleFinger1_L
+    400052: EvilDoll:MiddleFinger1_R
+    400054: EvilDoll:MiddleFinger2_L
+    400056: EvilDoll:MiddleFinger2_R
+    400058: EvilDoll:MiddleFinger3_L
+    400060: EvilDoll:MiddleFinger3_R
+    400062: EvilDoll:MiddleFinger4_L
+    400064: EvilDoll:MiddleFinger4_R
+    400066: EvilDoll:Neck_M
+    400068: EvilDoll:NeckPart1_M
+    400070: EvilDoll:PinkyFinger1_L
+    400072: EvilDoll:PinkyFinger1_R
+    400074: EvilDoll:PinkyFinger2_L
+    400076: EvilDoll:PinkyFinger2_R
+    400078: EvilDoll:PinkyFinger3_L
+    400080: EvilDoll:PinkyFinger3_R
+    400082: EvilDoll:PinkyFinger4_L
+    400084: EvilDoll:PinkyFinger4_R
+    400086: EvilDoll:RingFinger1_L
+    400088: EvilDoll:RingFinger1_R
+    400090: EvilDoll:RingFinger2_L
+    400092: EvilDoll:RingFinger2_R
+    400094: EvilDoll:RingFinger3_L
+    400096: EvilDoll:RingFinger3_R
+    400098: EvilDoll:RingFinger4_L
+    400100: EvilDoll:RingFinger4_R
+    400102: EvilDoll:Root_M
+    400104: EvilDoll:RootPart1_M
+    400106: EvilDoll:RootPart2_M
+    400108: EvilDoll:Scapula_L
+    400110: EvilDoll:Scapula_R
+    400112: EvilDoll:Shoulder_L
+    400114: EvilDoll:Shoulder_R
+    400116: EvilDoll:Spine1_M
+    400118: EvilDoll:Spine1Part1_M
+    400120: EvilDoll:Spine1Part2_M
+    400122: EvilDoll:ThumbFinger1_L
+    400124: EvilDoll:ThumbFinger1_R
+    400126: EvilDoll:ThumbFinger2_L
+    400128: EvilDoll:ThumbFinger2_R
+    400130: EvilDoll:ThumbFinger3_L
+    400132: EvilDoll:ThumbFinger3_R
+    400134: EvilDoll:ThumbFinger4_L
+    400136: EvilDoll:ThumbFinger4_R
+    400138: EvilDoll:Toes_L
+    400140: EvilDoll:Toes_R
+    400142: EvilDoll:ToesEnd_L
+    400144: EvilDoll:ToesEnd_R
+    400146: EvilDoll:Wrist_L
+    400148: EvilDoll:Wrist_R
+    400150: //RootNode
+    400152: EvilDoll:body
+    400154: EvilDoll:body 1
+    400156: EvilDoll:body 2
+    400158: EvilDoll:Geometry
+    400160: EvilDoll:head
+    400162: EvilDoll:head 1
+    400164: EvilDoll:head 2
+    400166: EvilDoll:Jacket
+    400168: EvilDoll:Jacket 1
+    400170: EvilDoll:Jacket 2
+    400172: EvilDoll:L_shoe
+    400174: EvilDoll:L_shoe 1
+    400176: EvilDoll:L_shoe 2
+    400178: EvilDoll:LOD_00
+    400180: EvilDoll:LOD_01
+    400182: EvilDoll:LOD_02
+    400184: EvilDoll:Necktie
+    400186: EvilDoll:Necktie 1
+    400188: EvilDoll:Necktie 2
+    400190: EvilDoll:Pants
+    400192: EvilDoll:Pants 1
+    400194: EvilDoll:Pants 2
+    400196: EvilDoll:R_shoe
+    400198: EvilDoll:R_shoe 1
+    400200: EvilDoll:R_shoe 2
+    400202: EvilDoll:Shirt
+    400204: EvilDoll:Shirt 1
+    400206: EvilDoll:Shirt 2
+    400208: EvilDoll:Suit
+    400210: EvilDoll:Suit 1
+    400212: EvilDoll:Suit 2
+    2100000: EvilDoll_M_Body
+    2100002: EvilDoll_M_Shoes
+    2100004: EvilDoll_M_Suit
+    4300000: EvilDoll:body
+    4300002: EvilDoll:head
+    4300004: EvilDoll:L_shoe
+    4300006: EvilDoll:R_shoe
+    4300008: EvilDoll:Shirt
+    4300010: EvilDoll:Pants
+    4300012: EvilDoll:Jacket
+    4300014: EvilDoll:Necktie
+    4300016: EvilDoll:body
+    4300018: EvilDoll:head
+    4300020: EvilDoll:L_shoe
+    4300022: EvilDoll:R_shoe
+    4300024: EvilDoll:Shirt
+    4300026: EvilDoll:Pants
+    4300028: EvilDoll:Jacket
+    4300030: EvilDoll:Necktie
+    4300032: EvilDoll:body
+    4300034: EvilDoll:head
+    4300036: EvilDoll:L_shoe
+    4300038: EvilDoll:R_shoe
+    4300040: EvilDoll:Shirt
+    4300042: EvilDoll:Pants
+    4300044: EvilDoll:Jacket
+    4300046: EvilDoll:Necktie
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: EvilDoll:body
+    13700002: EvilDoll:body 1
+    13700004: EvilDoll:body 2
+    13700006: EvilDoll:head
+    13700008: EvilDoll:head 1
+    13700010: EvilDoll:head 2
+    13700012: EvilDoll:Jacket
+    13700014: EvilDoll:Jacket 1
+    13700016: EvilDoll:Jacket 2
+    13700018: EvilDoll:L_shoe
+    13700020: EvilDoll:L_shoe 1
+    13700022: EvilDoll:L_shoe 2
+    13700024: EvilDoll:Necktie
+    13700026: EvilDoll:Necktie 1
+    13700028: EvilDoll:Necktie 2
+    13700030: EvilDoll:Pants
+    13700032: EvilDoll:Pants 1
+    13700034: EvilDoll:Pants 2
+    13700036: EvilDoll:R_shoe
+    13700038: EvilDoll:R_shoe 1
+    13700040: EvilDoll:R_shoe 2
+    13700042: EvilDoll:Shirt
+    13700044: EvilDoll:Shirt 1
+    13700046: EvilDoll:Shirt 2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 205425e334e907941b5665d3862c2b4b,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
